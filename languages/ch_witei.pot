@@ -1,0 +1,200 @@
+# Copyright (C) 2021 Carlos Herrera
+# This file is distributed under the same license as the WITEI import plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WITEI import 4.6\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/importador-sooprema\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-07-31T09:58:52+02:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: ch_sooprema\n"
+
+#. Plugin Name of the plugin
+msgid "WITEI import"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://carlos-herrera.com/producto/conector-de-inmuebles-sooprema-para-wordpress/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Another plugin developed on Antonella Framework for WP"
+msgstr ""
+
+#. Author of the plugin
+msgid "Carlos Herrera"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://carlos-herrera.com"
+msgstr ""
+
+#: src/Admin/PageAdmin.php:18
+#: wp-test/wp-content/plugins/importador-sooprema/src/Admin/PageAdmin.php:18
+msgid "General"
+msgstr ""
+
+#: src/Admin/PageAdmin.php:24
+#: wp-test/wp-content/plugins/importador-sooprema/src/Admin/PageAdmin.php:24
+msgid "Post Types Relations"
+msgstr ""
+
+#: src/Admin/PageAdmin.php:30
+#: wp-test/wp-content/plugins/importador-sooprema/src/Admin/PageAdmin.php:30
+msgid "Bulk Import"
+msgstr ""
+
+#: src/Admin/PageAdmin.php:36
+#: wp-test/wp-content/plugins/importador-sooprema/src/Admin/PageAdmin.php:36
+msgid "Cron job"
+msgstr ""
+
+#: src/Admin/PageAdmin.php:42
+#: wp-test/wp-content/plugins/importador-sooprema/src/Admin/PageAdmin.php:42
+msgid "WebHook"
+msgstr ""
+
+#: src/Admin/PageAdmin.php:48
+#: wp-test/wp-content/plugins/importador-sooprema/src/Admin/PageAdmin.php:48
+msgid "FeedBack"
+msgstr ""
+
+#: src/Admin/PageAdmin.php:104
+#: wp-test/wp-content/plugins/importador-sooprema/src/Admin/PageAdmin.php:104
+msgid "Witei Import"
+msgstr ""
+
+#: src/Admin/PageAdmin.php:109
+#: wp-test/wp-content/plugins/importador-sooprema/src/Admin/PageAdmin.php:109
+msgid "Update"
+msgstr ""
+
+#: src/Admin/PageAdmin.php:132
+#: src/Admin/PageAdmin.php:175
+#: wp-test/wp-content/plugins/importador-sooprema/src/Admin/PageAdmin.php:132
+#: wp-test/wp-content/plugins/importador-sooprema/src/Admin/PageAdmin.php:175
+msgid "Choose"
+msgstr ""
+
+#: src/MenuController.php:29
+#: wp-test/wp-content/plugins/importador-sooprema/src/MenuController.php:29
+msgid "Initial settings"
+msgstr ""
+
+#: src/MenuController.php:42
+#: wp-test/wp-content/plugins/importador-sooprema/src/MenuController.php:42
+msgid "Witei's Token"
+msgstr ""
+
+#: src/MenuController.php:46
+#: wp-test/wp-content/plugins/importador-sooprema/src/MenuController.php:46
+msgid "Token to import the properties You can see it, if you are logged in wn Witei, clicking on"
+msgstr ""
+
+#: src/MenuController.php:51
+#: wp-test/wp-content/plugins/importador-sooprema/src/MenuController.php:51
+msgid "Plugin's Token"
+msgstr ""
+
+#: src/MenuController.php:55
+#: wp-test/wp-content/plugins/importador-sooprema/src/MenuController.php:55
+msgid "License to run the plugin. To purchase a license click <a href=\"http://tipeos.com/WFz\" target=\"_blank\"> here </a>"
+msgstr ""
+
+#: src/MenuController.php:60
+#: wp-test/wp-content/plugins/importador-sooprema/src/MenuController.php:60
+msgid "Choose PostType"
+msgstr ""
+
+#: src/MenuController.php:62
+#: wp-test/wp-content/plugins/importador-sooprema/src/MenuController.php:62
+msgid "Select the type of entry you want to import the properties"
+msgstr ""
+
+#: src/MenuController.php:78
+#: wp-test/wp-content/plugins/importador-sooprema/src/MenuController.php:78
+msgid "Import Photos"
+msgstr ""
+
+#: src/MenuController.php:81
+#: src/MenuController.php:92
+#: src/MenuController.php:116
+#: src/MenuController.php:133
+#: wp-test/wp-content/plugins/importador-sooprema/src/MenuController.php:81
+#: wp-test/wp-content/plugins/importador-sooprema/src/MenuController.php:91
+#: wp-test/wp-content/plugins/importador-sooprema/src/MenuController.php:115
+#: wp-test/wp-content/plugins/importador-sooprema/src/MenuController.php:132
+msgid "yes"
+msgstr ""
+
+#: src/MenuController.php:82
+#: src/MenuController.php:93
+#: src/MenuController.php:117
+#: src/MenuController.php:134
+#: wp-test/wp-content/plugins/importador-sooprema/src/MenuController.php:82
+#: wp-test/wp-content/plugins/importador-sooprema/src/MenuController.php:92
+#: wp-test/wp-content/plugins/importador-sooprema/src/MenuController.php:116
+#: wp-test/wp-content/plugins/importador-sooprema/src/MenuController.php:133
+msgid "no"
+msgstr ""
+
+#: src/MenuController.php:84
+#: wp-test/wp-content/plugins/importador-sooprema/src/MenuController.php:84
+msgid "Select if you want the photos to be imported"
+msgstr ""
+
+#: src/MenuController.php:85
+msgid "Photos are only imported the first time you import the property."
+msgstr ""
+
+#: src/MenuController.php:107
+#: wp-test/wp-content/plugins/importador-sooprema/src/MenuController.php:106
+msgid "Default auhtor"
+msgstr ""
+
+#: src/MenuController.php:109
+#: wp-test/wp-content/plugins/importador-sooprema/src/MenuController.php:108
+msgid "Select the default author for the properties"
+msgstr ""
+
+#: src/MenuController.php:130
+#: wp-test/wp-content/plugins/importador-sooprema/src/MenuController.php:129
+msgid "Report problems by email"
+msgstr ""
+
+#: src/MenuController.php:136
+#: wp-test/wp-content/plugins/importador-sooprema/src/MenuController.php:135
+msgid "Select if you want the agents assigned to the property to be related to existing WordPress users"
+msgstr ""
+
+#: src/MenuController.php:501
+#: wp-test/wp-content/plugins/importador-sooprema/src/MenuController.php:499
+msgid "Calculating Properties:"
+msgstr ""
+
+#: src/MenuController.php:501
+#: wp-test/wp-content/plugins/importador-sooprema/src/MenuController.php:499
+msgid "Properties to import."
+msgstr ""
+
+#: src/MenuController.php:835
+msgid "Feedback type"
+msgstr ""
+
+#: src/MenuController.php:838
+#: src/MenuController.php:848
+msgid "Select"
+msgstr ""
+
+#: src/MenuController.php:839
+msgid "Plugin error"
+msgstr ""
+
+#: src/MenuController.php:840
+msgid "Suggestion"
+msgstr ""

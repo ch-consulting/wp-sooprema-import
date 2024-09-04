@@ -1,0 +1,208 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WITEI import\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/importador-sooprema\n"
+"POT-Creation-Date: 2021-07-31T09:58:52+02:00\n"
+"PO-Revision-Date: 2021-07-31 10:12+0200\n"
+"Last-Translator: \n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.0\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2\n"
+
+#. Plugin Name of the plugin
+msgid "WITEI import"
+msgstr "Importador WITEI"
+
+#. Plugin URI of the plugin
+msgid ""
+"https://carlos-herrera.com/producto/conector-de-inmuebles-sooprema-para-"
+"wordpress/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Another plugin developed on Antonella Framework for WP"
+msgstr "Otro plugin desarrollado con Antonella Framework para WordPress"
+
+#. Author of the plugin
+msgid "Carlos Herrera"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://carlos-herrera.com"
+msgstr ""
+
+#: src/Admin/PageAdmin.php:18
+#: wp-test/wp-content/plugins/importador-sooprema/src/Admin/PageAdmin.php:18
+msgid "General"
+msgstr "General"
+
+#: src/Admin/PageAdmin.php:24
+#: wp-test/wp-content/plugins/importador-sooprema/src/Admin/PageAdmin.php:24
+msgid "Post Types Relations"
+msgstr "Relaciones de entradas"
+
+#: src/Admin/PageAdmin.php:30
+#: wp-test/wp-content/plugins/importador-sooprema/src/Admin/PageAdmin.php:30
+msgid "Bulk Import"
+msgstr "Importación masiva"
+
+#: src/Admin/PageAdmin.php:36
+#: wp-test/wp-content/plugins/importador-sooprema/src/Admin/PageAdmin.php:36
+msgid "Cron job"
+msgstr "Tareas programadas"
+
+#: src/Admin/PageAdmin.php:42
+#: wp-test/wp-content/plugins/importador-sooprema/src/Admin/PageAdmin.php:42
+msgid "WebHook"
+msgstr ""
+
+#: src/Admin/PageAdmin.php:48
+#: wp-test/wp-content/plugins/importador-sooprema/src/Admin/PageAdmin.php:48
+msgid "FeedBack"
+msgstr "Soporte técnico"
+
+#: src/Admin/PageAdmin.php:104
+#: wp-test/wp-content/plugins/importador-sooprema/src/Admin/PageAdmin.php:104
+msgid "Witei Import"
+msgstr "Importador Witei"
+
+#: src/Admin/PageAdmin.php:109
+#: wp-test/wp-content/plugins/importador-sooprema/src/Admin/PageAdmin.php:109
+msgid "Update"
+msgstr "Actualizar"
+
+#: src/Admin/PageAdmin.php:132 src/Admin/PageAdmin.php:175
+#: wp-test/wp-content/plugins/importador-sooprema/src/Admin/PageAdmin.php:132
+#: wp-test/wp-content/plugins/importador-sooprema/src/Admin/PageAdmin.php:175
+msgid "Choose"
+msgstr "Selecciona"
+
+#: src/MenuController.php:29
+#: wp-test/wp-content/plugins/importador-sooprema/src/MenuController.php:29
+msgid "Initial settings"
+msgstr "Ajustes iniciales"
+
+#: src/MenuController.php:42
+#: wp-test/wp-content/plugins/importador-sooprema/src/MenuController.php:42
+msgid "Witei's Token"
+msgstr "Token de Witei"
+
+#: src/MenuController.php:46
+#: wp-test/wp-content/plugins/importador-sooprema/src/MenuController.php:46
+msgid ""
+"Token to import the properties You can see it, if you are logged in wn "
+"Witei, clicking on"
+msgstr ""
+"Token para importar los inmuebles, para poder verlo tienes que hacer click en"
+
+#: src/MenuController.php:51
+#: wp-test/wp-content/plugins/importador-sooprema/src/MenuController.php:51
+msgid "Plugin's Token"
+msgstr "Token del plugin"
+
+#: src/MenuController.php:55
+#: wp-test/wp-content/plugins/importador-sooprema/src/MenuController.php:55
+msgid ""
+"License to run the plugin. To purchase a license click <a href=\"http://"
+"tipeos.com/WFz\" target=\"_blank\"> here </a>"
+msgstr ""
+"Licencia funcionar el plugin. Para comprar una licencia hac click <a href="
+"\"http://tipeos.com/WFz\" target=\"_blank\">aquí</a>"
+
+#: src/MenuController.php:60
+#: wp-test/wp-content/plugins/importador-sooprema/src/MenuController.php:60
+msgid "Choose PostType"
+msgstr "Selecciona PostType"
+
+#: src/MenuController.php:62
+#: wp-test/wp-content/plugins/importador-sooprema/src/MenuController.php:62
+msgid "Select the type of entry you want to import the properties"
+msgstr "Selecciona el tipo de entrada que deseas importar los inmuebles"
+
+#: src/MenuController.php:78
+#: wp-test/wp-content/plugins/importador-sooprema/src/MenuController.php:78
+msgid "Import Photos"
+msgstr "Importar fotos"
+
+#: src/MenuController.php:81 src/MenuController.php:92
+#: src/MenuController.php:116 src/MenuController.php:133
+#: wp-test/wp-content/plugins/importador-sooprema/src/MenuController.php:81
+#: wp-test/wp-content/plugins/importador-sooprema/src/MenuController.php:91
+#: wp-test/wp-content/plugins/importador-sooprema/src/MenuController.php:115
+#: wp-test/wp-content/plugins/importador-sooprema/src/MenuController.php:132
+msgid "yes"
+msgstr "si"
+
+#: src/MenuController.php:82 src/MenuController.php:93
+#: src/MenuController.php:117 src/MenuController.php:134
+#: wp-test/wp-content/plugins/importador-sooprema/src/MenuController.php:82
+#: wp-test/wp-content/plugins/importador-sooprema/src/MenuController.php:92
+#: wp-test/wp-content/plugins/importador-sooprema/src/MenuController.php:116
+#: wp-test/wp-content/plugins/importador-sooprema/src/MenuController.php:133
+msgid "no"
+msgstr "no"
+
+#: src/MenuController.php:84
+#: wp-test/wp-content/plugins/importador-sooprema/src/MenuController.php:84
+msgid "Select if you want the photos to be imported"
+msgstr "Selecciona si deseas que se importe las fotos"
+
+#: src/MenuController.php:85
+msgid "Photos are only imported the first time you import the property."
+msgstr ""
+"Las fotos serán importadas sólo la primera vez que importes la propiedad."
+
+#: src/MenuController.php:107
+#: wp-test/wp-content/plugins/importador-sooprema/src/MenuController.php:106
+msgid "Default auhtor"
+msgstr "Autor por defecto"
+
+#: src/MenuController.php:109
+#: wp-test/wp-content/plugins/importador-sooprema/src/MenuController.php:108
+msgid "Select the default author for the properties"
+msgstr "Seleciona el auhtor por defecto para los inmuebles"
+
+#: src/MenuController.php:130
+#: wp-test/wp-content/plugins/importador-sooprema/src/MenuController.php:129
+msgid "Report problems by email"
+msgstr "Reportar incidencias por email"
+
+#: src/MenuController.php:136
+#: wp-test/wp-content/plugins/importador-sooprema/src/MenuController.php:135
+msgid ""
+"Select if you want the agents assigned to the property to be related to "
+"existing WordPress users"
+msgstr ""
+"Selecciona si deseas que se relacione los agentes asignados al inmueble con "
+"los usuarios existentes en WordPress"
+
+#: src/MenuController.php:501
+#: wp-test/wp-content/plugins/importador-sooprema/src/MenuController.php:499
+msgid "Calculating Properties:"
+msgstr "Calculando propiedades:"
+
+#: src/MenuController.php:501
+#: wp-test/wp-content/plugins/importador-sooprema/src/MenuController.php:499
+msgid "Properties to import."
+msgstr "Propiedades a importar."
+
+#: src/MenuController.php:835
+msgid "Feedback type"
+msgstr "Tipo de soporte técnico"
+
+#: src/MenuController.php:838 src/MenuController.php:848
+msgid "Select"
+msgstr "Selecciona"
+
+#: src/MenuController.php:839
+msgid "Plugin error"
+msgstr "Error del plugin"
+
+#: src/MenuController.php:840
+msgid "Suggestion"
+msgstr "Sugerencia"
